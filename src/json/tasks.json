@@ -1,0 +1,28 @@
+{
+    "tasks":[
+        {
+            "title": "Tarea 1",
+            "responsible": "John",
+            "description": "Lorem ipsum",
+            "priority": "low"
+        },
+        {
+            "title": "Tarea 2",
+            "responsible": "Dann",
+            "description": "Lorem ipsum 2",
+            "priority": "medium"
+        },
+        {
+            "title": "Tarea 3",
+            "responsible": "Jezz",
+            "description": "Lorem ipsum 3",
+            "priority": "high"
+        },
+        {
+            "title": "Tarea 4",
+            "responsible": "Don",
+            "description": "Lorem ipsum 4",
+            "priority": "low"
+        }
+    ]
+}
